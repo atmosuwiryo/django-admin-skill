@@ -5,7 +5,7 @@ An AI agent skill for building, customizing, and extending Django's admin interf
 ## Install
 
 ```bash
-npx skills add django-admin.skill
+npx skills add atmosuwiryo/django-admin-skill
 ```
 
 ## Requirements
@@ -27,7 +27,7 @@ npx skills add django-admin.skill
 ## Files
 
 ```
-django-admin/
+django-admin-skill/
 ├── SKILL.md                  # main skill instructions
 └── references/
     └── theming.md            # deep-dive: templates, CSS variables, dark mode, packaging
